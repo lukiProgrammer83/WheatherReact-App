@@ -13,7 +13,7 @@ const Form = props => {
             {/* <button>Wyszukaj miejscowość</button> */}
         </form>
     )
-        < div > divek</div >
+
 }
 
 export default Form;
